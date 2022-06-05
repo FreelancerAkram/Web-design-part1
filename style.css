@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+body{
+    background-color:#1c1b1b88 ;
+    padding: 3%;
+    text-align: center;
+    font-family: arial;
+   
+}
+h1{
+    margin-bottom: 1rem;
+    color: rgb(242 194 104)
+}
+p{
+    color: rgb(88 71 70 / 98%);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+    padding: 30px;
+}
+img{
+    border-radius: 50%;
+    margin-top: 2rem;
+}
